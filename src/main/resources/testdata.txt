@@ -1,0 +1,9 @@
+iPod Classic
+iPod Nano
+iPod Shuffle
+iPod Touch
+
+//@Test
+//    public void testOpenPage(){
+//    driver.get("https://opencart.demo.servername.co/");
+//}
